@@ -1,5 +1,6 @@
 # Scrobits Assignment
 
+### Deployed link - https://scrobits-assignment.netlify.app/
 
 Steps to run locally
 
